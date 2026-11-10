@@ -53,7 +53,7 @@ HOW TO USE
 | **Hand Gesture Recognition** | Vision Hack project: control things with hand gestures | Python, MediaPipe | [Code](#) |
 | **Portfolio Website** | My personal portfolio | HTML, CSS, JS | [Live](#) · [Code](#) |
 
-> Replace `#` with real links. Pin these repos on your profile too.
+>
 
 ---
 
