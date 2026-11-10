@@ -27,11 +27,13 @@ HOW TO USE
 ## 👨‍💻 About Me
 
 - 🎓 CSE student at **CGC University**
-- 🔭 Currently building: **[your current project]**
+- 🔭 Currently building: safeHer
 - 🌱 Learning: **HTML, CSS, JavaScript, React, Python**
 - 🎯 Goals: **Open source, GSoC, cybersecurity**
 - 🤝 Open to collaborate on web projects and hackathons
-- ⚡ Fun fact: **[write something about yourself]**
+- ⚡ Fun fact: - ⚡ Fun fact: I joined my first hackathons in my very first semester 🚀
+- 🎬 I also create content and I'm learning video editing
+- 🤖 I love experimenting with AI models running on my own laptop
 
 ---
 
