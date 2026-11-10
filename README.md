@@ -9,7 +9,7 @@ HOW TO USE
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I%27m%20YOUR%20NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20Open%20Source%20Learner&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=   I%27m%20Nikhil%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20Open%20Source%20Learner&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <!-- Typing animation: change the text after lines= (use + for spaces, ; between lines) -->
 <a href="https://github.com/YOUR_USERNAME">
