@@ -18,7 +18,7 @@ HOW TO USE
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Nikhil%20Mishra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
