@@ -42,7 +42,6 @@ HOW TO USE
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,linux,docker,vscode" alt="tech stack" />
 </div>
 
-> Keep only the skills you really know. Add or remove names after `i=` (list: https://skillicons.dev).
 
 ---
 
