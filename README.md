@@ -9,7 +9,7 @@ HOW TO USE
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=I%27m%20Nikhil%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20Open%20Source%20Learner&descAlignY=58&descSize=18" width="100%" alt="header" 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=I%27m%20Nikhil%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20Open%20Source%20Learner&descAlignY=58&descSize=18" width="100%" alt="header" />
 <!-- Typing animation: change the text after lines= (use + for spaces, ; between lines) -->
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Learning+Web+Development+%F0%9F%8C%90;Building+projects+at+hackathons+%F0%9F%9A%80;Working+towards+Google+Summer+of+Code;Curious+about+Cybersecurity+%F0%9F%94%90" alt="Typing animation" />
