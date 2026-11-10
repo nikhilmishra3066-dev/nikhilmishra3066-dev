@@ -49,7 +49,7 @@ HOW TO USE
 
 | Project | What it does | Tech | Links |
 |---|---|---|---|
-| **SafeHer** | Women's-safety idea: wearable + app + community network (website) | HTML, CSS, JS | [Live](#) · [Code](#) |
+| **SafeHer** | Women's-safety idea: wearable + app + community network (website) | HTML, CSS, JS | [Live](https://first-hackathon-gamma.vercel.app/)  |
 
 >
 
