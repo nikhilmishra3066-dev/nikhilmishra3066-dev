@@ -50,8 +50,6 @@ HOW TO USE
 | Project | What it does | Tech | Links |
 |---|---|---|---|
 | **SafeHer** | Women's-safety idea: wearable + app + community network (website) | HTML, CSS, JS | [Live](#) · [Code](#) |
-| **Hand Gesture Recognition** | Vision Hack project: control things with hand gestures | Python, MediaPipe | [Code](#) |
-| **Portfolio Website** | My personal portfolio | HTML, CSS, JS | [Live](#) · [Code](#) |
 
 >
 
